@@ -1,2 +1,2 @@
 # bundesliga-prediction
-Projekt 1 zur Vorhersage des Bundesliga-Meisters mit ML &amp; Scrapy
+Projekt 1 zur Vorhersage von SPielen in der Bundesliga-Meisters.
