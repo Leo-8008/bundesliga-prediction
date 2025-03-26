@@ -1,0 +1,4898 @@
+[
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Hertha BSC",
+        "score": "1:1",
+        "date": "16.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "Bor. Dortmund",
+        "away_team": "FC Schalke 04",
+        "score": "1:0",
+        "date": "17.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "B. Leverkusen",
+        "away_team": "Werder Bremen",
+        "score": "1:1",
+        "date": "17.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "FC Augsburg",
+        "away_team": "Bayern München",
+        "score": "1:0",
+        "date": "17.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "VfB Stuttgart",
+        "away_team": "E. Frankfurt",
+        "score": "1:3",
+        "date": "17.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "RB Leipzig",
+        "score": "3:0",
+        "date": "17.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "Union Berlin",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "18.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "VfL Bochum",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "18.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "7",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "SC Freiburg",
+        "score": "0:0",
+        "date": "18.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "Werder Bremen",
+        "away_team": "FC Augsburg",
+        "score": "0:1",
+        "date": "09.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "Bayern München",
+        "away_team": "VfB Stuttgart",
+        "score": "2:2",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "RB Leipzig",
+        "away_team": "Bor. Dortmund",
+        "score": "3:0",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "1.FSV Mainz 05",
+        "score": "4:1",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:1",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "Hertha BSC",
+        "away_team": "B. Leverkusen",
+        "score": "2:2",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "FC Schalke 04",
+        "away_team": "VfL Bochum",
+        "score": "3:1",
+        "date": "10.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "1.FC Köln",
+        "away_team": "Union Berlin",
+        "score": "0:1",
+        "date": "11.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "6",
+        "home_team": "SC Freiburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "0:0",
+        "date": "11.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "SC Freiburg",
+        "away_team": "Bor. Dortmund",
+        "score": "1:3",
+        "date": "12.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "B. Leverkusen",
+        "away_team": "FC Augsburg",
+        "score": "1:2",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "RB Leipzig",
+        "away_team": "1.FC Köln",
+        "score": "2:2",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfL Bochum",
+        "score": "3:2",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "Hertha BSC",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "Werder Bremen",
+        "away_team": "VfB Stuttgart",
+        "score": "2:2",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "FC Schalke 04",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:2",
+        "date": "13.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Union Berlin",
+        "score": "0:0",
+        "date": "14.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "2",
+        "home_team": "Bayern München",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "14.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Hertha BSC",
+        "score": "1:0",
+        "date": "19.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Werder Bremen",
+        "score": "2:3",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "B. Leverkusen",
+        "away_team": "TSG Hoffenheim",
+        "score": "0:3",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "FC Schalke 04",
+        "score": "0:0",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "FC Augsburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:2",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "VfB Stuttgart",
+        "away_team": "SC Freiburg",
+        "score": "0:1",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "Union Berlin",
+        "away_team": "RB Leipzig",
+        "score": "2:1",
+        "date": "20.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "E. Frankfurt",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "21.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "3",
+        "home_team": "VfL Bochum",
+        "away_team": "Bayern München",
+        "score": "0:7",
+        "date": "21.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "Bor. Dortmund",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:0",
+        "date": "02.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "B. Leverkusen",
+        "away_team": "SC Freiburg",
+        "score": "2:3",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "Union Berlin",
+        "away_team": "Bayern München",
+        "score": "1:1",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "1.FC Köln",
+        "score": "2:4",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "VfL Bochum",
+        "away_team": "Werder Bremen",
+        "score": "0:2",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "VfB Stuttgart",
+        "away_team": "FC Schalke 04",
+        "score": "1:1",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "E. Frankfurt",
+        "away_team": "RB Leipzig",
+        "score": "4:0",
+        "date": "03.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "FC Augsburg",
+        "away_team": "Hertha BSC",
+        "score": "0:2",
+        "date": "04.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "5",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:1",
+        "date": "04.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "Bayern München",
+        "away_team": "B. Leverkusen",
+        "score": "4:0",
+        "date": "30.09.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "RB Leipzig",
+        "away_team": "VfL Bochum",
+        "score": "4:0",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "SC Freiburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:1",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "1.FC Köln",
+        "away_team": "Bor. Dortmund",
+        "score": "3:2",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "E. Frankfurt",
+        "away_team": "Union Berlin",
+        "score": "2:0",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "VfB Stuttgart",
+        "score": "3:2",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "Werder Bremen",
+        "away_team": "Bor. M'gladbach",
+        "score": "5:1",
+        "date": "01.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "Hertha BSC",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:1",
+        "date": "02.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "8",
+        "home_team": "FC Schalke 04",
+        "away_team": "FC Augsburg",
+        "score": "2:3",
+        "date": "02.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "FC Schalke 04",
+        "away_team": "TSG Hoffenheim",
+        "score": "0:3",
+        "date": "14.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "E. Frankfurt",
+        "away_team": "B. Leverkusen",
+        "score": "5:1",
+        "date": "15.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:2",
+        "date": "15.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "VfB Stuttgart",
+        "away_team": "VfL Bochum",
+        "score": "4:1",
+        "date": "15.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "Werder Bremen",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:2",
+        "date": "15.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "RB Leipzig",
+        "away_team": "Hertha BSC",
+        "score": "3:2",
+        "date": "15.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "1.FC Köln",
+        "away_team": "FC Augsburg",
+        "score": "3:2",
+        "date": "16.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "Union Berlin",
+        "away_team": "Bor. Dortmund",
+        "score": "2:0",
+        "date": "16.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "10",
+        "home_team": "Bayern München",
+        "away_team": "SC Freiburg",
+        "score": "5:0",
+        "date": "16.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "Werder Bremen",
+        "away_team": "Hertha BSC",
+        "score": "1:0",
+        "date": "28.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "Bayern München",
+        "away_team": "1.FSV Mainz 05",
+        "score": "6:2",
+        "date": "29.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "RB Leipzig",
+        "away_team": "B. Leverkusen",
+        "score": "2:0",
+        "date": "29.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "VfL Bochum",
+        "score": "4:0",
+        "date": "29.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "VfB Stuttgart",
+        "away_team": "FC Augsburg",
+        "score": "2:1",
+        "date": "29.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bor. Dortmund",
+        "score": "1:2",
+        "date": "29.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "Union Berlin",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:1",
+        "date": "30.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "FC Schalke 04",
+        "away_team": "SC Freiburg",
+        "score": "0:2",
+        "date": "30.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "12",
+        "home_team": "1.FC Köln",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:1",
+        "date": "30.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfB Stuttgart",
+        "score": "3:1",
+        "date": "04.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfL Bochum",
+        "score": "3:0",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:3",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "RB Leipzig",
+        "score": "1:3",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "FC Augsburg",
+        "away_team": "E. Frankfurt",
+        "score": "1:2",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "Hertha BSC",
+        "away_team": "Bayern München",
+        "score": "2:3",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "Werder Bremen",
+        "away_team": "FC Schalke 04",
+        "score": "2:1",
+        "date": "05.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "B. Leverkusen",
+        "away_team": "Union Berlin",
+        "score": "5:0",
+        "date": "06.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "13",
+        "home_team": "SC Freiburg",
+        "away_team": "1.FC Köln",
+        "score": "2:0",
+        "date": "06.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "1.FC Köln",
+        "score": "5:0",
+        "date": "21.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfB Stuttgart",
+        "score": "5:0",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:2",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "SC Freiburg",
+        "away_team": "Werder Bremen",
+        "score": "2:0",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bayern München",
+        "score": "0:2",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "FC Augsburg",
+        "away_team": "RB Leipzig",
+        "score": "3:3",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "E. Frankfurt",
+        "score": "1:3",
+        "date": "22.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "VfL Bochum",
+        "away_team": "Union Berlin",
+        "score": "2:1",
+        "date": "23.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "11",
+        "home_team": "Hertha BSC",
+        "away_team": "FC Schalke 04",
+        "score": "2:1",
+        "date": "23.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bayern München",
+        "score": "1:6",
+        "date": "05.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "Union Berlin",
+        "away_team": "Hertha BSC",
+        "score": "3:1",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:1",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Werder Bremen",
+        "score": "2:2",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "VfL Bochum",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:2",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "FC Augsburg",
+        "away_team": "SC Freiburg",
+        "score": "0:4",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "Bor. Dortmund",
+        "away_team": "B. Leverkusen",
+        "score": "1:0",
+        "date": "06.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "VfB Stuttgart",
+        "away_team": "RB Leipzig",
+        "score": "1:1",
+        "date": "07.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "1",
+        "home_team": "1.FC Köln",
+        "away_team": "FC Schalke 04",
+        "score": "3:1",
+        "date": "07.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bor. Dortmund",
+        "score": "2:0",
+        "date": "08.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "Bayern München",
+        "away_team": "Werder Bremen",
+        "score": "6:1",
+        "date": "08.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "VfL Bochum",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:1",
+        "date": "08.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Hertha BSC",
+        "score": "2:1",
+        "date": "08.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "1.FC Köln",
+        "away_team": "B. Leverkusen",
+        "score": "1:2",
+        "date": "09.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "RB Leipzig",
+        "away_team": "SC Freiburg",
+        "score": "3:1",
+        "date": "09.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "Union Berlin",
+        "away_team": "FC Augsburg",
+        "score": "2:2",
+        "date": "09.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "E. Frankfurt",
+        "away_team": "TSG Hoffenheim",
+        "score": "4:2",
+        "date": "09.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "14",
+        "home_team": "FC Schalke 04",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:0",
+        "date": "09.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Bor. Dortmund",
+        "score": "4:2",
+        "date": "11.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfB Stuttgart",
+        "score": "2:0",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:2",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "FC Augsburg",
+        "away_team": "VfL Bochum",
+        "score": "0:1",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "Hertha BSC",
+        "away_team": "1.FC Köln",
+        "score": "2:0",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "Werder Bremen",
+        "away_team": "RB Leipzig",
+        "score": "1:2",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "FC Schalke 04",
+        "away_team": "Bayern München",
+        "score": "0:2",
+        "date": "12.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "13.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "15",
+        "home_team": "SC Freiburg",
+        "away_team": "Union Berlin",
+        "score": "4:1",
+        "date": "13.11.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "RB Leipzig",
+        "away_team": "VfB Stuttgart",
+        "score": "2:1",
+        "date": "27.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "SC Freiburg",
+        "away_team": "FC Augsburg",
+        "score": "3:1",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfL Bochum",
+        "score": "5:2",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:4",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "Hertha BSC",
+        "away_team": "Union Berlin",
+        "score": "0:2",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "Werder Bremen",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:1",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "Bayern München",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "28.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "FC Schalke 04",
+        "away_team": "1.FC Köln",
+        "score": "0:0",
+        "date": "29.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "18",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bor. Dortmund",
+        "score": "0:2",
+        "date": "29.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "SC Freiburg",
+        "away_team": "VfL Bochum",
+        "score": "1:0",
+        "date": "26.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "RB Leipzig",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "B. Leverkusen",
+        "score": "0:3",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "FC Augsburg",
+        "score": "1:0",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "Hertha BSC",
+        "away_team": "Bor. Dortmund",
+        "score": "0:1",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "FC Schalke 04",
+        "away_team": "Union Berlin",
+        "score": "1:6",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "Bayern München",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:1",
+        "date": "27.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "1.FC Köln",
+        "away_team": "VfB Stuttgart",
+        "score": "0:0",
+        "date": "28.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "4",
+        "home_team": "Werder Bremen",
+        "away_team": "E. Frankfurt",
+        "score": "3:4",
+        "date": "28.08.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "FC Schalke 04",
+        "away_team": "RB Leipzig",
+        "score": "1:6",
+        "date": "24.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "Bayern München",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "24.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfB Stuttgart",
+        "score": "2:2",
+        "date": "24.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "Hertha BSC",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:5",
+        "date": "24.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bor. Dortmund",
+        "score": "1:2",
+        "date": "25.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfL Bochum",
+        "score": "2:0",
+        "date": "25.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "SC Freiburg",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "25.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "FC Augsburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:0",
+        "date": "25.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "17",
+        "home_team": "Werder Bremen",
+        "away_team": "Union Berlin",
+        "score": "1:2",
+        "date": "25.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Werder Bremen",
+        "score": "1:2",
+        "date": "07.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "B. Leverkusen",
+        "away_team": "FC Schalke 04",
+        "score": "4:0",
+        "date": "08.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "RB Leipzig",
+        "score": "1:1",
+        "date": "08.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "VfL Bochum",
+        "away_team": "E. Frankfurt",
+        "score": "3:0",
+        "date": "08.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "FC Augsburg",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:1",
+        "date": "08.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Bayern München",
+        "score": "2:2",
+        "date": "08.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "1.FC Köln",
+        "score": "5:2",
+        "date": "09.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "Hertha BSC",
+        "away_team": "SC Freiburg",
+        "score": "2:2",
+        "date": "09.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "9",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Union Berlin",
+        "score": "0:1",
+        "date": "09.10.2022"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "FC Schalke 04",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:0",
+        "date": "10.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "Bayern München",
+        "away_team": "VfL Bochum",
+        "score": "3:0",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "SC Freiburg",
+        "away_team": "VfB Stuttgart",
+        "score": "2:1",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "FC Augsburg",
+        "score": "3:1",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "B. Leverkusen",
+        "score": "1:3",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "Werder Bremen",
+        "away_team": "Bor. Dortmund",
+        "score": "0:2",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "RB Leipzig",
+        "away_team": "Union Berlin",
+        "score": "1:2",
+        "date": "11.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "Hertha BSC",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:1",
+        "date": "12.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "20",
+        "home_team": "1.FC Köln",
+        "away_team": "E. Frankfurt",
+        "score": "3:0",
+        "date": "12.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:0",
+        "date": "24.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "RB Leipzig",
+        "away_team": "E. Frankfurt",
+        "score": "2:1",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "1.FC Köln",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:2",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bor. Dortmund",
+        "score": "0:1",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "Hertha BSC",
+        "away_team": "FC Augsburg",
+        "score": "2:0",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "Werder Bremen",
+        "away_team": "VfL Bochum",
+        "score": "3:0",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "FC Schalke 04",
+        "away_team": "VfB Stuttgart",
+        "score": "2:1",
+        "date": "25.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "SC Freiburg",
+        "away_team": "B. Leverkusen",
+        "score": "1:1",
+        "date": "26.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "22",
+        "home_team": "Bayern München",
+        "away_team": "Union Berlin",
+        "score": "3:0",
+        "date": "26.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "FC Augsburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:0",
+        "date": "17.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Bayern München",
+        "score": "3:2",
+        "date": "18.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "RB Leipzig",
+        "score": "0:3",
+        "date": "18.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "VfL Bochum",
+        "away_team": "SC Freiburg",
+        "score": "0:2",
+        "date": "18.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "VfB Stuttgart",
+        "away_team": "1.FC Köln",
+        "score": "3:0",
+        "date": "18.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "E. Frankfurt",
+        "away_team": "Werder Bremen",
+        "score": "2:0",
+        "date": "18.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "Union Berlin",
+        "away_team": "FC Schalke 04",
+        "score": "0:0",
+        "date": "19.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Hertha BSC",
+        "score": "4:1",
+        "date": "19.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "21",
+        "home_team": "B. Leverkusen",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:3",
+        "date": "19.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "Bor. Dortmund",
+        "away_team": "RB Leipzig",
+        "score": "2:1",
+        "date": "03.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "Union Berlin",
+        "away_team": "1.FC Köln",
+        "score": "0:0",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:0",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "SC Freiburg",
+        "score": "0:0",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "VfL Bochum",
+        "away_team": "FC Schalke 04",
+        "score": "0:2",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "FC Augsburg",
+        "away_team": "Werder Bremen",
+        "score": "2:1",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bayern München",
+        "score": "1:2",
+        "date": "04.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "B. Leverkusen",
+        "away_team": "Hertha BSC",
+        "score": "4:1",
+        "date": "05.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "23",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "E. Frankfurt",
+        "score": "2:2",
+        "date": "05.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Werder Bremen",
+        "score": "2:2",
+        "date": "17.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Hertha BSC",
+        "score": "3:1",
+        "date": "18.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "VfL Bochum",
+        "away_team": "RB Leipzig",
+        "score": "1:0",
+        "date": "18.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "FC Augsburg",
+        "away_team": "FC Schalke 04",
+        "score": "1:1",
+        "date": "18.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "VfB Stuttgart",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:1",
+        "date": "18.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "Bor. Dortmund",
+        "away_team": "1.FC Köln",
+        "score": "6:1",
+        "date": "18.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "Union Berlin",
+        "away_team": "E. Frankfurt",
+        "score": "2:0",
+        "date": "19.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bayern München",
+        "score": "2:1",
+        "date": "19.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "25",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "SC Freiburg",
+        "score": "1:1",
+        "date": "19.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "RB Leipzig",
+        "away_team": "Bayern München",
+        "score": "1:1",
+        "date": "20.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "Union Berlin",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:1",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "E. Frankfurt",
+        "away_team": "FC Schalke 04",
+        "score": "3:0",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "SC Freiburg",
+        "score": "6:0",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "VfL Bochum",
+        "away_team": "Hertha BSC",
+        "score": "3:1",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "VfB Stuttgart",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "1.FC Köln",
+        "away_team": "Werder Bremen",
+        "score": "7:1",
+        "date": "21.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "Bor. Dortmund",
+        "away_team": "FC Augsburg",
+        "score": "4:3",
+        "date": "22.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "16",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "B. Leverkusen",
+        "score": "2:3",
+        "date": "22.01.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Union Berlin",
+        "score": "2:1",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "B. Leverkusen",
+        "away_team": "E. Frankfurt",
+        "score": "3:1",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "SC Freiburg",
+        "away_team": "Bayern München",
+        "score": "0:1",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Werder Bremen",
+        "score": "2:2",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "FC Augsburg",
+        "away_team": "1.FC Köln",
+        "score": "1:3",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "Hertha BSC",
+        "away_team": "RB Leipzig",
+        "score": "0:1",
+        "date": "08.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "09.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "VfL Bochum",
+        "away_team": "VfB Stuttgart",
+        "score": "2:3",
+        "date": "09.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "27",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "FC Schalke 04",
+        "score": "2:0",
+        "date": "09.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "FC Augsburg",
+        "away_team": "B. Leverkusen",
+        "score": "1:0",
+        "date": "03.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "Bor. Dortmund",
+        "away_team": "SC Freiburg",
+        "score": "5:1",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "Union Berlin",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:1",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "1.FC Köln",
+        "away_team": "RB Leipzig",
+        "score": "0:0",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "E. Frankfurt",
+        "away_team": "Hertha BSC",
+        "score": "3:0",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "VfL Bochum",
+        "away_team": "TSG Hoffenheim",
+        "score": "5:2",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "FC Schalke 04",
+        "score": "0:0",
+        "date": "04.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Werder Bremen",
+        "score": "0:2",
+        "date": "05.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "19",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bayern München",
+        "score": "2:4",
+        "date": "05.02.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "FC Schalke 04",
+        "away_team": "Hertha BSC",
+        "score": "5:2",
+        "date": "14.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "Bayern München",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:1",
+        "date": "15.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "RB Leipzig",
+        "away_team": "FC Augsburg",
+        "score": "3:2",
+        "date": "15.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "1.FC Köln",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "15.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bor. Dortmund",
+        "score": "3:3",
+        "date": "15.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:1",
+        "date": "15.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "Werder Bremen",
+        "away_team": "SC Freiburg",
+        "score": "1:2",
+        "date": "16.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "Union Berlin",
+        "away_team": "VfL Bochum",
+        "score": "1:1",
+        "date": "16.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "28",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "B. Leverkusen",
+        "score": "0:0",
+        "date": "16.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "VfL Bochum",
+        "away_team": "Bor. Dortmund",
+        "score": "1:1",
+        "date": "28.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "RB Leipzig",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:0",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "Union Berlin",
+        "away_team": "B. Leverkusen",
+        "score": "0:0",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "1.FC Köln",
+        "away_team": "SC Freiburg",
+        "score": "0:1",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "E. Frankfurt",
+        "away_team": "FC Augsburg",
+        "score": "1:1",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:1",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "FC Schalke 04",
+        "away_team": "Werder Bremen",
+        "score": "2:1",
+        "date": "29.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "Bayern München",
+        "away_team": "Hertha BSC",
+        "score": "2:0",
+        "date": "30.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "30",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "3:0",
+        "date": "30.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "1.FC Köln",
+        "away_team": "Hertha BSC",
+        "score": "5:2",
+        "date": "12.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "Bayern München",
+        "away_team": "FC Schalke 04",
+        "score": "6:0",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "Union Berlin",
+        "away_team": "SC Freiburg",
+        "score": "4:2",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "E. Frankfurt",
+        "away_team": "1.FSV Mainz 05",
+        "score": "3:0",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:1",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "VfL Bochum",
+        "away_team": "FC Augsburg",
+        "score": "3:2",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Bor. M'gladbach",
+        "score": "5:2",
+        "date": "13.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "VfB Stuttgart",
+        "away_team": "B. Leverkusen",
+        "score": "1:1",
+        "date": "14.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "32",
+        "home_team": "RB Leipzig",
+        "away_team": "Werder Bremen",
+        "score": "2:1",
+        "date": "14.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "B. Leverkusen",
+        "away_team": "1.FC Köln",
+        "score": "1:2",
+        "date": "05.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "FC Schalke 04",
+        "score": "2:3",
+        "date": "05.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "SC Freiburg",
+        "away_team": "RB Leipzig",
+        "score": "0:1",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "E. Frankfurt",
+        "score": "3:1",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfL Bochum",
+        "score": "2:0",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "FC Augsburg",
+        "away_team": "Union Berlin",
+        "score": "1:0",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "Hertha BSC",
+        "away_team": "VfB Stuttgart",
+        "score": "2:1",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "Werder Bremen",
+        "away_team": "Bayern München",
+        "score": "1:2",
+        "date": "06.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "31",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfL Wolfsburg",
+        "score": "6:0",
+        "date": "07.05.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "Werder Bremen",
+        "away_team": "Bayern München",
+        "score": "0:4",
+        "date": "18.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "B. Leverkusen",
+        "away_team": "RB Leipzig",
+        "score": "3:2",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:0",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "SC Freiburg",
+        "score": "1:2",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "VfB Stuttgart",
+        "away_team": "VfL Bochum",
+        "score": "5:0",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "FC Augsburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:4",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "Bor. Dortmund",
+        "away_team": "1.FC Köln",
+        "score": "1:0",
+        "date": "19.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "Union Berlin",
+        "away_team": "1.FSV Mainz 05",
+        "score": "4:1",
+        "date": "20.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "1",
+        "home_team": "E. Frankfurt",
+        "away_team": "Darmstadt 98",
+        "score": "1:0",
+        "date": "20.08.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "Bor. Dortmund",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:2",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "RB Leipzig",
+        "away_team": "FC Schalke 04",
+        "score": "4:2",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "Union Berlin",
+        "away_team": "Werder Bremen",
+        "score": "1:0",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "1.FC Köln",
+        "away_team": "Bayern München",
+        "score": "1:2",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "FC Augsburg",
+        "score": "2:0",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "E. Frankfurt",
+        "away_team": "SC Freiburg",
+        "score": "2:1",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Hertha BSC",
+        "score": "1:2",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "VfL Bochum",
+        "away_team": "B. Leverkusen",
+        "score": "3:0",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "34",
+        "home_team": "VfB Stuttgart",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:1",
+        "date": "27.05.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "RB Leipzig",
+        "away_team": "VfB Stuttgart",
+        "score": "5:1",
+        "date": "25.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "SC Freiburg",
+        "away_team": "Werder Bremen",
+        "score": "1:0",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "1.FC Köln",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:2",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "VfL Bochum",
+        "away_team": "Bor. Dortmund",
+        "score": "1:1",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:3",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "Darmstadt 98",
+        "away_team": "Union Berlin",
+        "score": "1:4",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "B. Leverkusen",
+        "score": "0:3",
+        "date": "26.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "27.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "2",
+        "home_team": "Bayern München",
+        "away_team": "FC Augsburg",
+        "score": "3:1",
+        "date": "27.08.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "Bor. Dortmund",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:2",
+        "date": "01.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "B. Leverkusen",
+        "away_team": "Darmstadt 98",
+        "score": "5:1",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfL Wolfsburg",
+        "score": "3:1",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "Werder Bremen",
+        "away_team": "1.FSV Mainz 05",
+        "score": "4:0",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "FC Augsburg",
+        "away_team": "VfL Bochum",
+        "score": "2:2",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "VfB Stuttgart",
+        "away_team": "SC Freiburg",
+        "score": "5:0",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Bayern München",
+        "score": "1:2",
+        "date": "02.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "E. Frankfurt",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "03.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "3",
+        "home_team": "Union Berlin",
+        "away_team": "RB Leipzig",
+        "score": "0:3",
+        "date": "03.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "Bayern München",
+        "away_team": "B. Leverkusen",
+        "score": "2:2",
+        "date": "15.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "RB Leipzig",
+        "away_team": "FC Augsburg",
+        "score": "3:0",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "SC Freiburg",
+        "away_team": "Bor. Dortmund",
+        "score": "2:4",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Union Berlin",
+        "score": "2:1",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfB Stuttgart",
+        "score": "1:3",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "1.FC Köln",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:3",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "VfL Bochum",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "16.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Werder Bremen",
+        "score": "4:2",
+        "date": "17.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "4",
+        "home_team": "Darmstadt 98",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:3",
+        "date": "17.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bor. Dortmund",
+        "score": "1:3",
+        "date": "29.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "E. Frankfurt",
+        "score": "2:0",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "B. Leverkusen",
+        "score": "0:3",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "1.FC Köln",
+        "away_team": "VfB Stuttgart",
+        "score": "0:2",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "VfL Bochum",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:3",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Union Berlin",
+        "score": "1:0",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "RB Leipzig",
+        "away_team": "Bayern München",
+        "score": "2:2",
+        "date": "30.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "Darmstadt 98",
+        "away_team": "Werder Bremen",
+        "score": "4:2",
+        "date": "01.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "6",
+        "home_team": "SC Freiburg",
+        "away_team": "FC Augsburg",
+        "score": "2:0",
+        "date": "01.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:2",
+        "date": "06.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Union Berlin",
+        "score": "4:2",
+        "date": "07.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "RB Leipzig",
+        "away_team": "VfL Bochum",
+        "score": "0:0",
+        "date": "07.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "FC Augsburg",
+        "away_team": "Darmstadt 98",
+        "score": "1:2",
+        "date": "07.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "VfB Stuttgart",
+        "away_team": "VfL Wolfsburg",
+        "score": "3:1",
+        "date": "07.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "Werder Bremen",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:3",
+        "date": "07.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "B. Leverkusen",
+        "away_team": "1.FC Köln",
+        "score": "3:0",
+        "date": "08.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "Bayern München",
+        "away_team": "SC Freiburg",
+        "score": "3:0",
+        "date": "08.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "7",
+        "home_team": "E. Frankfurt",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:0",
+        "date": "08.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Darmstadt 98",
+        "score": "3:1",
+        "date": "22.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "Bayern München",
+        "away_team": "VfL Bochum",
+        "score": "7:0",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:0",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "Union Berlin",
+        "away_team": "TSG Hoffenheim",
+        "score": "0:2",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "RB Leipzig",
+        "score": "0:1",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "FC Augsburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:1",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "Werder Bremen",
+        "away_team": "1.FC Köln",
+        "score": "2:1",
+        "date": "23.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "B. Leverkusen",
+        "away_team": "1.FC Heidenheim",
+        "score": "4:1",
+        "date": "24.09.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "5",
+        "home_team": "E. Frankfurt",
+        "away_team": "SC Freiburg",
+        "score": "0:0",
+        "date": "24.09.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfL Bochum",
+        "score": "1:1",
+        "date": "31.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "RB Leipzig",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:3",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "Union Berlin",
+        "away_team": "VfB Stuttgart",
+        "score": "3:0",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "SC Freiburg",
+        "away_team": "Hertha BSC",
+        "score": "1:1",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "FC Augsburg",
+        "score": "2:2",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "FC Schalke 04",
+        "away_team": "B. Leverkusen",
+        "score": "0:3",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "Bayern München",
+        "away_team": "Bor. Dortmund",
+        "score": "4:2",
+        "date": "01.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "1.FC Köln",
+        "away_team": "Bor. M'gladbach",
+        "score": "0:0",
+        "date": "02.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "26",
+        "home_team": "Werder Bremen",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:2",
+        "date": "02.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "1.FC Köln",
+        "away_team": "VfL Bochum",
+        "score": "0:2",
+        "date": "10.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "Bayern München",
+        "away_team": "FC Augsburg",
+        "score": "5:3",
+        "date": "11.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "RB Leipzig",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:0",
+        "date": "11.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfB Stuttgart",
+        "score": "1:1",
+        "date": "11.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "Hertha BSC",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "11.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "FC Schalke 04",
+        "away_team": "Bor. Dortmund",
+        "score": "2:2",
+        "date": "11.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "SC Freiburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:1",
+        "date": "12.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "Werder Bremen",
+        "away_team": "B. Leverkusen",
+        "score": "2:3",
+        "date": "12.03.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "24",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Union Berlin",
+        "score": "1:1",
+        "date": "12.03.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "VfL Bochum",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:2",
+        "date": "27.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "Bayern München",
+        "away_team": "Darmstadt 98",
+        "score": "8:0",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:1",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "Werder Bremen",
+        "away_team": "Union Berlin",
+        "score": "2:0",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "FC Augsburg",
+        "away_team": "VfL Wolfsburg",
+        "score": "3:2",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "VfB Stuttgart",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:3",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "RB Leipzig",
+        "away_team": "1.FC Köln",
+        "score": "6:0",
+        "date": "28.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bor. Dortmund",
+        "score": "3:3",
+        "date": "29.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "9",
+        "home_team": "B. Leverkusen",
+        "away_team": "SC Freiburg",
+        "score": "2:1",
+        "date": "29.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "Darmstadt 98",
+        "away_team": "VfL Bochum",
+        "score": "1:2",
+        "date": "03.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "Union Berlin",
+        "away_team": "E. Frankfurt",
+        "score": "0:3",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "SC Freiburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:3",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "RB Leipzig",
+        "score": "2:0",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "1.FC Köln",
+        "away_team": "FC Augsburg",
+        "score": "1:1",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "B. Leverkusen",
+        "score": "2:3",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Bayern München",
+        "score": "0:4",
+        "date": "04.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Werder Bremen",
+        "score": "2:2",
+        "date": "05.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "10",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "VfB Stuttgart",
+        "score": "2:0",
+        "date": "05.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfL Wolfsburg",
+        "score": "4:0",
+        "date": "10.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "Bayern München",
+        "away_team": "1.FC Heidenheim",
+        "score": "4:2",
+        "date": "11.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "FC Augsburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "1:1",
+        "date": "11.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bor. Dortmund",
+        "score": "2:1",
+        "date": "11.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "Darmstadt 98",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:0",
+        "date": "11.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "VfL Bochum",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "11.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "B. Leverkusen",
+        "away_team": "Union Berlin",
+        "score": "4:0",
+        "date": "12.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "Werder Bremen",
+        "away_team": "E. Frankfurt",
+        "score": "2:2",
+        "date": "12.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "11",
+        "home_team": "RB Leipzig",
+        "away_team": "SC Freiburg",
+        "score": "3:1",
+        "date": "12.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Werder Bremen",
+        "score": "2:2",
+        "date": "15.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "1.FC Heidenheim",
+        "score": "0:1",
+        "date": "16.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "VfL Bochum",
+        "away_team": "Union Berlin",
+        "score": "3:0",
+        "date": "16.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "FC Augsburg",
+        "away_team": "Bor. Dortmund",
+        "score": "1:1",
+        "date": "16.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "Darmstadt 98",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:1",
+        "date": "16.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "RB Leipzig",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:1",
+        "date": "16.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "SC Freiburg",
+        "away_team": "1.FC Köln",
+        "score": "2:0",
+        "date": "17.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "B. Leverkusen",
+        "away_team": "E. Frankfurt",
+        "score": "3:0",
+        "date": "17.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "15",
+        "home_team": "Bayern München",
+        "away_team": "VfB Stuttgart",
+        "score": "3:0",
+        "date": "17.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "Werder Bremen",
+        "away_team": "RB Leipzig",
+        "score": "1:1",
+        "date": "19.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "Bor. Dortmund",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "19.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Darmstadt 98",
+        "score": "3:3",
+        "date": "19.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "Union Berlin",
+        "away_team": "1.FC Köln",
+        "score": "2:0",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfL Bochum",
+        "score": "4:0",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:1",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bayern München",
+        "score": "1:2",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "VfB Stuttgart",
+        "away_team": "FC Augsburg",
+        "score": "3:0",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "16",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "SC Freiburg",
+        "score": "3:2",
+        "date": "20.12.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "SC Freiburg",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "19.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Union Berlin",
+        "score": "4:2",
+        "date": "20.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "Hertha BSC",
+        "away_team": "VfL Bochum",
+        "score": "1:1",
+        "date": "20.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "FC Schalke 04",
+        "away_team": "E. Frankfurt",
+        "score": "2:2",
+        "date": "20.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "Werder Bremen",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "20.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "Bayern München",
+        "away_team": "RB Leipzig",
+        "score": "1:3",
+        "date": "20.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfB Stuttgart",
+        "score": "1:4",
+        "date": "21.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "FC Augsburg",
+        "away_team": "Bor. Dortmund",
+        "score": "0:3",
+        "date": "21.05.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "33",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:2",
+        "date": "21.05.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "Bayern München",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:0",
+        "date": "12.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "RB Leipzig",
+        "away_team": "E. Frankfurt",
+        "score": "0:1",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "SC Freiburg",
+        "away_team": "Union Berlin",
+        "score": "0:0",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:1",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "1.FC Köln",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:1",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "FC Augsburg",
+        "away_team": "B. Leverkusen",
+        "score": "0:1",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "Darmstadt 98",
+        "away_team": "Bor. Dortmund",
+        "score": "0:3",
+        "date": "13.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "VfL Bochum",
+        "away_team": "Werder Bremen",
+        "score": "1:1",
+        "date": "14.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "17",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfB Stuttgart",
+        "score": "3:1",
+        "date": "14.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "1.FC Köln",
+        "away_team": "Bor. Dortmund",
+        "score": "0:4",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "Darmstadt 98",
+        "away_team": "E. Frankfurt",
+        "score": "2:2",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:1",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "SC Freiburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:2",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "VfL Bochum",
+        "away_team": "VfB Stuttgart",
+        "score": "1:0",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "RB Leipzig",
+        "away_team": "B. Leverkusen",
+        "score": "2:3",
+        "date": "20.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "Bayern München",
+        "away_team": "Werder Bremen",
+        "score": "0:1",
+        "date": "21.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "FC Augsburg",
+        "score": "1:2",
+        "date": "21.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "18",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Union Berlin",
+        "score": "1:1",
+        "date": "07.02.2024"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "FC Augsburg",
+        "away_team": "VfB Stuttgart",
+        "score": "1:1",
+        "date": "21.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bayern München",
+        "score": "3:1",
+        "date": "22.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "1.FC Köln",
+        "score": "1:3",
+        "date": "22.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "VfL Bochum",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:5",
+        "date": "22.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "Hertha BSC",
+        "away_team": "Werder Bremen",
+        "score": "2:4",
+        "date": "22.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "Bor. Dortmund",
+        "away_team": "E. Frankfurt",
+        "score": "4:0",
+        "date": "22.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "SC Freiburg",
+        "away_team": "FC Schalke 04",
+        "score": "4:0",
+        "date": "23.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "B. Leverkusen",
+        "away_team": "RB Leipzig",
+        "score": "2:0",
+        "date": "23.04.2023"
+    },
+    {
+        "season": "2022",
+        "matchday": "29",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Union Berlin",
+        "score": "0:1",
+        "date": "23.04.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "Bor. Dortmund",
+        "away_team": "SC Freiburg",
+        "score": "3:0",
+        "date": "09.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "FC Augsburg",
+        "away_team": "RB Leipzig",
+        "score": "2:2",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "Union Berlin",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:0",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfL Bochum",
+        "score": "1:1",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "Werder Bremen",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:2",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Darmstadt 98",
+        "score": "0:0",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bayern München",
+        "score": "3:0",
+        "date": "10.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "VfB Stuttgart",
+        "away_team": "1.FSV Mainz 05",
+        "score": "3:1",
+        "date": "11.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "21",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "11.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "E. Frankfurt",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:0",
+        "date": "26.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "FC Augsburg",
+        "away_team": "Bayern München",
+        "score": "2:3",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "VfB Stuttgart",
+        "away_team": "RB Leipzig",
+        "score": "5:2",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "Werder Bremen",
+        "away_team": "SC Freiburg",
+        "score": "3:1",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:1",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bor. M'gladbach",
+        "score": "0:0",
+        "date": "27.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "Union Berlin",
+        "away_team": "Darmstadt 98",
+        "score": "1:0",
+        "date": "28.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "19",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfL Bochum",
+        "score": "3:1",
+        "date": "28.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfL Bochum",
+        "score": "3:1",
+        "date": "08.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "Union Berlin",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:1",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "E. Frankfurt",
+        "away_team": "Bayern München",
+        "score": "5:1",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "SC Freiburg",
+        "score": "0:1",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "Werder Bremen",
+        "away_team": "FC Augsburg",
+        "score": "2:0",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Darmstadt 98",
+        "score": "3:2",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "Bor. Dortmund",
+        "away_team": "RB Leipzig",
+        "score": "2:3",
+        "date": "09.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "VfB Stuttgart",
+        "away_team": "B. Leverkusen",
+        "score": "1:1",
+        "date": "10.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "14",
+        "home_team": "1.FC Köln",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:0",
+        "date": "10.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "B. Leverkusen",
+        "away_team": "1.FSV Mainz 05",
+        "score": "2:1",
+        "date": "23.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "VfB Stuttgart",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "24.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "VfL Bochum",
+        "score": "5:2",
+        "date": "24.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "Union Berlin",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:2",
+        "date": "24.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "Werder Bremen",
+        "away_team": "Darmstadt 98",
+        "score": "1:1",
+        "date": "24.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "Bayern München",
+        "away_team": "RB Leipzig",
+        "score": "2:1",
+        "date": "24.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:2",
+        "date": "25.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "Bor. Dortmund",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:3",
+        "date": "25.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "23",
+        "home_team": "FC Augsburg",
+        "away_team": "SC Freiburg",
+        "score": "2:1",
+        "date": "25.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "1.FC Köln",
+        "away_team": "Werder Bremen",
+        "score": "0:1",
+        "date": "16.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bor. Dortmund",
+        "score": "1:1",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Union Berlin",
+        "score": "0:1",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "B. Leverkusen",
+        "score": "1:2",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "FC Augsburg",
+        "score": "1:0",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "Darmstadt 98",
+        "away_team": "VfB Stuttgart",
+        "score": "1:2",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "RB Leipzig",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:0",
+        "date": "17.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "SC Freiburg",
+        "away_team": "E. Frankfurt",
+        "score": "3:3",
+        "date": "18.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "22",
+        "home_team": "VfL Bochum",
+        "away_team": "Bayern München",
+        "score": "3:2",
+        "date": "18.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "SC Freiburg",
+        "away_team": "Bayern München",
+        "score": "2:2",
+        "date": "01.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "Union Berlin",
+        "away_team": "Bor. Dortmund",
+        "score": "0:2",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "VfL Bochum",
+        "away_team": "RB Leipzig",
+        "score": "1:4",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "E. Frankfurt",
+        "score": "1:2",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:1",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "Darmstadt 98",
+        "away_team": "FC Augsburg",
+        "score": "0:6",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "VfB Stuttgart",
+        "score": "2:3",
+        "date": "02.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "1.FC Köln",
+        "away_team": "B. Leverkusen",
+        "score": "0:2",
+        "date": "03.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "24",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Werder Bremen",
+        "score": "2:1",
+        "date": "03.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "1.FC Köln",
+        "away_team": "RB Leipzig",
+        "score": "1:5",
+        "date": "15.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "Darmstadt 98",
+        "away_team": "Bayern München",
+        "score": "2:5",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:1",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "Union Berlin",
+        "away_team": "Werder Bremen",
+        "score": "2:1",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "VfL Bochum",
+        "score": "2:0",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "FC Augsburg",
+        "score": "1:3",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "VfB Stuttgart",
+        "score": "0:3",
+        "date": "16.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "SC Freiburg",
+        "away_team": "B. Leverkusen",
+        "score": "2:3",
+        "date": "17.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "26",
+        "home_team": "Bor. Dortmund",
+        "away_team": "E. Frankfurt",
+        "score": "3:1",
+        "date": "17.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "1.FC Köln",
+        "away_team": "Bayern München",
+        "score": "0:1",
+        "date": "24.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:2",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "Union Berlin",
+        "away_team": "FC Augsburg",
+        "score": "1:1",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "SC Freiburg",
+        "away_team": "Darmstadt 98",
+        "score": "1:1",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "RB Leipzig",
+        "score": "2:1",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "Werder Bremen",
+        "away_team": "B. Leverkusen",
+        "score": "0:3",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "E. Frankfurt",
+        "away_team": "VfB Stuttgart",
+        "score": "1:2",
+        "date": "25.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "VfL Bochum",
+        "score": "0:0",
+        "date": "26.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "12",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "26.11.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "E. Frankfurt",
+        "away_team": "Union Berlin",
+        "score": "0:0",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "SC Freiburg",
+        "score": "0:3",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "Werder Bremen",
+        "away_team": "VfL Wolfsburg",
+        "score": "0:2",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "RB Leipzig",
+        "away_team": "1.FSV Mainz 05",
+        "score": "0:0",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "B. Leverkusen",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:1",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "Bayern München",
+        "away_team": "Bor. Dortmund",
+        "score": "0:2",
+        "date": "30.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "FC Augsburg",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "31.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "VfB Stuttgart",
+        "away_team": "1.FC Heidenheim",
+        "score": "3:3",
+        "date": "31.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "27",
+        "home_team": "VfL Bochum",
+        "away_team": "Darmstadt 98",
+        "score": "2:2",
+        "date": "31.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "E. Frankfurt",
+        "away_team": "Werder Bremen",
+        "score": "1:1",
+        "date": "05.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Bayern München",
+        "score": "3:2",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "SC Freiburg",
+        "away_team": "RB Leipzig",
+        "score": "1:4",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "Union Berlin",
+        "away_team": "B. Leverkusen",
+        "score": "0:1",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "1.FC Köln",
+        "away_team": "VfL Bochum",
+        "score": "2:1",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Darmstadt 98",
+        "score": "4:0",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "Bor. Dortmund",
+        "away_team": "VfB Stuttgart",
+        "score": "0:1",
+        "date": "06.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "FC Augsburg",
+        "score": "3:1",
+        "date": "07.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "28",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Bor. M'gladbach",
+        "score": "1:3",
+        "date": "07.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "FC Augsburg",
+        "away_team": "Union Berlin",
+        "score": "2:0",
+        "date": "12.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Bor. Dortmund",
+        "score": "1:2",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "RB Leipzig",
+        "away_team": "VfL Wolfsburg",
+        "score": "3:0",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "Bayern München",
+        "away_team": "1.FC Köln",
+        "score": "2:0",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "TSG Hoffenheim",
+        "score": "4:1",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "VfL Bochum",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:1",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "VfB Stuttgart",
+        "away_team": "E. Frankfurt",
+        "score": "3:0",
+        "date": "13.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "Darmstadt 98",
+        "away_team": "SC Freiburg",
+        "score": "0:1",
+        "date": "14.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "29",
+        "home_team": "B. Leverkusen",
+        "away_team": "Werder Bremen",
+        "score": "5:0",
+        "date": "14.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Werder Bremen",
+        "score": "1:0",
+        "date": "20.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "Union Berlin",
+        "away_team": "VfB Stuttgart",
+        "score": "0:3",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "SC Freiburg",
+        "away_team": "VfL Bochum",
+        "score": "2:1",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "B. Leverkusen",
+        "score": "1:2",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "E. Frankfurt",
+        "score": "1:3",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "Darmstadt 98",
+        "away_team": "RB Leipzig",
+        "score": "1:3",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bayern München",
+        "score": "1:3",
+        "date": "21.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "1.FC Köln",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:1",
+        "date": "22.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "8",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "FC Augsburg",
+        "score": "2:5",
+        "date": "22.10.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "VfL Bochum",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:2",
+        "date": "26.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "RB Leipzig",
+        "away_team": "Bor. Dortmund",
+        "score": "4:1",
+        "date": "27.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "Bayern München",
+        "away_team": "E. Frankfurt",
+        "score": "2:1",
+        "date": "27.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "SC Freiburg",
+        "away_team": "VfL Wolfsburg",
+        "score": "1:2",
+        "date": "27.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "FC Augsburg",
+        "away_team": "Werder Bremen",
+        "score": "0:3",
+        "date": "27.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfB Stuttgart",
+        "score": "2:2",
+        "date": "27.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "Union Berlin",
+        "score": "0:0",
+        "date": "28.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "1.FC Köln",
+        "score": "1:1",
+        "date": "28.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "31",
+        "home_team": "Darmstadt 98",
+        "away_team": "1.FC Heidenheim",
+        "score": "0:1",
+        "date": "28.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "FC Augsburg",
+        "away_team": "VfB Stuttgart",
+        "score": "0:1",
+        "date": "10.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "1.FC Köln",
+        "away_team": "Union Berlin",
+        "score": "3:2",
+        "date": "11.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "E. Frankfurt",
+        "score": "1:1",
+        "date": "11.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "RB Leipzig",
+        "away_team": "Werder Bremen",
+        "score": "1:1",
+        "date": "11.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "SC Freiburg",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:1",
+        "date": "11.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Bor. Dortmund",
+        "score": "3:0",
+        "date": "11.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "Darmstadt 98",
+        "away_team": "TSG Hoffenheim",
+        "score": "0:6",
+        "date": "12.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "Bayern München",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "12.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "33",
+        "home_team": "VfL Bochum",
+        "away_team": "B. Leverkusen",
+        "score": "0:5",
+        "date": "12.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "RB Leipzig",
+        "score": "1:1",
+        "date": "03.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bayern München",
+        "score": "3:1",
+        "date": "04.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "Werder Bremen",
+        "away_team": "Bor. M'gladbach",
+        "score": "2:2",
+        "date": "04.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "Bor. Dortmund",
+        "away_team": "FC Augsburg",
+        "score": "5:1",
+        "date": "04.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "Darmstadt 98",
+        "score": "3:0",
+        "date": "04.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "1.FC Köln",
+        "away_team": "SC Freiburg",
+        "score": "0:0",
+        "date": "04.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "Union Berlin",
+        "away_team": "VfL Bochum",
+        "score": "3:4",
+        "date": "05.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "E. Frankfurt",
+        "away_team": "B. Leverkusen",
+        "score": "1:5",
+        "date": "05.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "32",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "05.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "Darmstadt 98",
+        "away_team": "1.FC Köln",
+        "score": "0:1",
+        "date": "01.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "RB Leipzig",
+        "away_team": "1.FC Heidenheim",
+        "score": "2:1",
+        "date": "02.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:1",
+        "date": "02.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "VfL Bochum",
+        "away_team": "VfL Wolfsburg",
+        "score": "3:1",
+        "date": "02.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Werder Bremen",
+        "score": "2:0",
+        "date": "02.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "SC Freiburg",
+        "score": "0:1",
+        "date": "03.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "B. Leverkusen",
+        "away_team": "Bor. Dortmund",
+        "score": "1:1",
+        "date": "03.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "FC Augsburg",
+        "away_team": "E. Frankfurt",
+        "score": "2:1",
+        "date": "03.12.2023"
+    },
+    {
+        "season": "2023",
+        "matchday": "13",
+        "home_team": "Bayern München",
+        "away_team": "Union Berlin",
+        "score": "1:0",
+        "date": "24.01.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bayern München",
+        "score": "4:2",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "E. Frankfurt",
+        "away_team": "RB Leipzig",
+        "score": "2:2",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "Union Berlin",
+        "away_team": "SC Freiburg",
+        "score": "2:1",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:3",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:0",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "1.FC Köln",
+        "score": "4:1",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "Werder Bremen",
+        "away_team": "VfL Bochum",
+        "score": "4:1",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "B. Leverkusen",
+        "away_team": "FC Augsburg",
+        "score": "2:1",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "34",
+        "home_team": "Bor. Dortmund",
+        "away_team": "Darmstadt 98",
+        "score": "4:0",
+        "date": "18.05.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "Bor. Dortmund",
+        "score": "0:0",
+        "date": "02.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "Darmstadt 98",
+        "away_team": "B. Leverkusen",
+        "score": "0:2",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "Bayern München",
+        "away_team": "Bor. M'gladbach",
+        "score": "3:1",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "1.FSV Mainz 05",
+        "away_team": "Werder Bremen",
+        "score": "0:1",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "VfL Bochum",
+        "away_team": "FC Augsburg",
+        "score": "1:1",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "SC Freiburg",
+        "away_team": "VfB Stuttgart",
+        "score": "1:3",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "1.FC Köln",
+        "away_team": "E. Frankfurt",
+        "score": "2:0",
+        "date": "03.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "TSG Hoffenheim",
+        "score": "2:2",
+        "date": "04.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "20",
+        "home_team": "RB Leipzig",
+        "away_team": "Union Berlin",
+        "score": "2:0",
+        "date": "04.02.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "VfB Stuttgart",
+        "away_team": "Union Berlin",
+        "score": "2:0",
+        "date": "08.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "Bayern München",
+        "away_team": "1.FSV Mainz 05",
+        "score": "8:1",
+        "date": "09.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "Bor. M'gladbach",
+        "away_team": "1.FC Köln",
+        "score": "3:3",
+        "date": "09.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "FC Augsburg",
+        "away_team": "1.FC Heidenheim",
+        "score": "1:0",
+        "date": "09.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "RB Leipzig",
+        "away_team": "Darmstadt 98",
+        "score": "2:0",
+        "date": "09.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "Werder Bremen",
+        "away_team": "Bor. Dortmund",
+        "score": "1:2",
+        "date": "09.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "VfL Bochum",
+        "away_team": "SC Freiburg",
+        "score": "1:2",
+        "date": "10.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "E. Frankfurt",
+        "away_team": "TSG Hoffenheim",
+        "score": "3:1",
+        "date": "10.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "25",
+        "home_team": "B. Leverkusen",
+        "away_team": "VfL Wolfsburg",
+        "score": "2:0",
+        "date": "10.03.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "E. Frankfurt",
+        "away_team": "FC Augsburg",
+        "score": "3:1",
+        "date": "19.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "1.FC Heidenheim",
+        "away_team": "RB Leipzig",
+        "score": "1:2",
+        "date": "20.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "TSG Hoffenheim",
+        "away_team": "Bor. M'gladbach",
+        "score": "4:3",
+        "date": "20.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "VfL Wolfsburg",
+        "away_team": "VfL Bochum",
+        "score": "1:0",
+        "date": "20.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "1.FC Köln",
+        "away_team": "Darmstadt 98",
+        "score": "0:2",
+        "date": "20.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "Union Berlin",
+        "away_team": "Bayern München",
+        "score": "1:5",
+        "date": "20.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "Werder Bremen",
+        "away_team": "VfB Stuttgart",
+        "score": "2:1",
+        "date": "21.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "Bor. Dortmund",
+        "away_team": "B. Leverkusen",
+        "score": "1:1",
+        "date": "21.04.2024"
+    },
+    {
+        "season": "2023",
+        "matchday": "30",
+        "home_team": "SC Freiburg",
+        "away_team": "1.FSV Mainz 05",
+        "score": "1:1",
+        "date": "21.04.2024"
+    }
+]
