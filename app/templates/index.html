@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta charset="UTF-8">
+    <title>Bundesliga Spielvorhersage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 40px;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            width: 400px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        select, button {
+            padding: 10px;
+            margin: 10px;
+            width: 80%;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        .result {
+            font-size: 20px;
+            color: #005500;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bundesliga Spieltipper</h1>
+    <form action="/" method="POST">
+        <label for="home_team">Heimteam:</label><br>
+        <select name="home_team" id="home_team" required>
+            {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br>
+
+        <label for="away_team">Auswärtsteam:</label><br>
+        <select name="away_team" id="away_team" required>
+            {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br>
+
+        <button type="submit">Vorhersage anzeigen</button>
+    </form>
+
+    {% if prediction %}
+        <div class="result">
+            <p><strong>Tipp:</strong> {{ prediction }}</p>
+        </div>
+    {% endif %}
+</body>
+</html>

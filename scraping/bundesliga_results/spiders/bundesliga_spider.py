@@ -10,7 +10,7 @@ class BundesligaResultsSpider(scrapy.Spider):
         for year in [2022, 2023] for i in range(1, 35)
     ]
 
-    all_matches = []  # globale Sammlung
+    all_matches = []
 
     def parse(self, response):
         season = response.url.split("saison_id=")[1].split("&")[0]
@@ -40,7 +40,6 @@ class BundesligaResultsSpider(scrapy.Spider):
         self.log(f" {len(matches)} Spiele gesammelt für Saison {season}, Spieltag {matchday}")
 
     def closed(self, reason):
-        # Wird automatisch aufgerufen, wenn der Spider fertig ist
         filename = "bundesliga_results.json"
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(self.all_matches, f, ensure_ascii=False, indent=4)
