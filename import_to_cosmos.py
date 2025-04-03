@@ -12,7 +12,7 @@ db = client["bundesliga"]
 collection = db["results"]
 
 # Vorherige Daten löschen
-collection.delete_many({})  # ⚠️ Achtung: löscht alles in "results"
+collection.delete_many({})  
 
 # Lokale JSON-Datei laden
 with open("bundesliga_results.json", "r", encoding="utf-8") as f:

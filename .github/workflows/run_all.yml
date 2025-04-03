@@ -1,0 +1,27 @@
+name: Run Complete ML Pipeline
+
+on:
+  workflow_dispatch:  # Manuelles Starten im GitHub UI
+
+jobs:
+  full-pipeline:
+    runs-on: ubuntu-latest
+
+    env:
+      AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
+      CONNECTION_STRING: ${{ secrets.MONGODB_CONNECTION_STRING }}
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt scrapy azure-storage-blob pymongo
+
+      - name: Run full pipeline
+        run: python run_all.py
