@@ -1,0 +1,45 @@
+feature
+home_team_1.FC Heidenheim
+home_team_1.FC Köln
+home_team_1.FSV Mainz 05
+home_team_B. Leverkusen
+home_team_Bayern München
+home_team_Bor. Dortmund
+home_team_Bor. M'gladbach
+home_team_Darmstadt 98
+home_team_E. Frankfurt
+home_team_FC Augsburg
+home_team_FC Schalke 04
+home_team_Hertha BSC
+home_team_RB Leipzig
+home_team_SC Freiburg
+home_team_TSG Hoffenheim
+home_team_Union Berlin
+home_team_VfB Stuttgart
+home_team_VfL Bochum
+home_team_VfL Wolfsburg
+home_team_Werder Bremen
+away_team_1.FC Heidenheim
+away_team_1.FC Köln
+away_team_1.FSV Mainz 05
+away_team_B. Leverkusen
+away_team_Bayern München
+away_team_Bor. Dortmund
+away_team_Bor. M'gladbach
+away_team_Darmstadt 98
+away_team_E. Frankfurt
+away_team_FC Augsburg
+away_team_FC Schalke 04
+away_team_Hertha BSC
+away_team_RB Leipzig
+away_team_SC Freiburg
+away_team_TSG Hoffenheim
+away_team_Union Berlin
+away_team_VfB Stuttgart
+away_team_VfL Bochum
+away_team_VfL Wolfsburg
+away_team_Werder Bremen
+home_team_rank
+away_team_rank
+home_form
+away_form
