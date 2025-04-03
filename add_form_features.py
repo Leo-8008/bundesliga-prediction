@@ -2,45 +2,40 @@ import os
 import json
 import pandas as pd
 
-# Automatischer Pfad zur JSON-Datei im Hauptverzeichnis
 base_path = os.path.dirname(os.path.abspath(__file__))
 json_path = os.path.join(base_path, "bundesliga_results.json")
 
-# JSON laden
 with open(json_path, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 df = pd.DataFrame(data)
 
-# Tore extrahieren
+
 df[["home_goals", "away_goals"]] = df["score"].str.extract(r"(\d+):(\d+)").astype(float)
 
-# Datum parsen für Sortierung
 df["date"] = pd.to_datetime(df["date"], format="%d.%m.%Y", errors="coerce")
 
-# Leere Spalten für Form
+
 df["home_form"] = 0.0
 df["away_form"] = 0.0
 
-# Form berechnen: letzte 3 Spiele vor dem aktuellen Spiel
+
 for idx, row in df.iterrows():
     date = row["date"]
     home_team = row["home_team"]
     away_team = row["away_team"]
 
-    # Vorherige Heimspiele
     prev_home_games = df[
         (df["home_team"] == home_team) &
         (df["date"] < date)
     ].sort_values("date", ascending=False).head(3)
 
-    # Vorherige Auswärtsspiele
     prev_away_games = df[
         (df["away_team"] == away_team) &
         (df["date"] < date)
     ].sort_values("date", ascending=False).head(3)
 
-    # Form berechnen: 3 Punkte für Sieg, 1 für Unentschieden
+
     def calc_form(games, team_col, goals_for, goals_against):
         form = 0
         for _, g in games.iterrows():

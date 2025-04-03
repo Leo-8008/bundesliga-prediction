@@ -1,0 +1,26 @@
+name: Download Latest Model from Azure Blob
+
+on:
+  workflow_dispatch:  # Manuell auslösbar
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    env:
+      AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+
+      - name: Python einrichten
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt azure-storage-blob
+
+      - name: Neuestes Modell herunterladen
+        run: python download_model.py

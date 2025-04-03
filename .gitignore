@@ -173,7 +173,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 # Scrapy Output Files
-*.csv
+#*.csv
 *.log
 # VS Code Settings
 .vscode/

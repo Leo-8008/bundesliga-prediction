@@ -18,9 +18,11 @@ with open(os.path.join(base_path, "model_away.pkl"), "rb") as f:
 
 feature_names = pd.read_csv(os.path.join(base_path, "feature_names.csv"))["feature"].tolist()
 
-# Alle Teams aus den Feature-Namen extrahieren
-teams = sorted(set(name.replace("home_team_", "").replace("away_team_", "")
-                   for name in feature_names))
+teams = sorted(set(
+    name.replace("home_team_", "").replace("away_team_", "")
+    for name in feature_names
+    if name.startswith("home_team_") or name.startswith("away_team_")
+))
 
 @app.route("/", methods=["GET", "POST"])
 def index():

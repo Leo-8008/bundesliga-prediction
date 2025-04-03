@@ -1,7 +1,14 @@
 name: Upload Model to Azure Blob
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Manuell auslösbar über GitHub GUI
+  push:
+    paths:
+      - model_home.pkl
+      - model_away.pkl
+      - feature_names.csv
+      - model_to_blob.py
+      - .github/workflows/upload_model.yml
 
 jobs:
   upload:
@@ -11,16 +18,19 @@ jobs:
       AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
 
     steps:
-    - name: Checkout Repo
+    - name: Repository auschecken
       uses: actions/checkout@v3
 
-    - name: Set up Python
+    - name: Python einrichten
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Abhängigkeiten installieren
       run: pip install -r requirements.txt azure-storage-blob
 
-    - name: Upload model to Azure Blob
-      run: python model_to_blob.py --container models --version latest
+    - name: Versionsnummer generieren (Timestamp)
+      run: echo "MODEL_VERSION=v$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
+
+    - name: Modell hochladen
+      run: python model_to_blob.py --container models --version $MODEL_VERSION
