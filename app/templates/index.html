@@ -1,65 +1,107 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <meta charset="UTF-8">
-    <title>Bundesliga Spielvorhersage</title>
+    <title>Bundesliga Tipper</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f3f3f3;
-            margin: 40px;
-            text-align: center;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #004d7a, #008793);
+            color: #fff;
+            margin: 0;
+            padding: 0;
         }
+
+        .container {
+            max-width: 600px;
+            margin: 80px auto;
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+        }
+
         h1 {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+
+        select, button {
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 6px;
+            border: none;
+            font-size: 16px;
+        }
+
+        select {
+            background-color: #fff;
             color: #333;
         }
-        form {
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            width: 400px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+        button {
+            background-color: #00c9a7;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
         }
-        select, button {
-            padding: 10px;
-            margin: 10px;
-            width: 80%;
-            border-radius: 4px;
-            border: 1px solid #ccc;
+
+        button:hover {
+            background-color: #00a187;
         }
-        .result {
-            font-size: 20px;
-            color: #005500;
+
+        .prediction {
             margin-top: 20px;
+            font-size: 24px;
+            text-align: center;
+            font-weight: bold;
+            background-color: rgba(0,0,0,0.2);
+            padding: 10px;
+            border-radius: 8px;
+        }
+
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            opacity: 0.8;
         }
     </style>
 </head>
 <body>
-    <h1>Bundesliga Spieltipper</h1>
-    <form action="/" method="POST">
-        <label for="home_team">Heimteam:</label><br>
-        <select name="home_team" id="home_team" required>
-            {% for team in teams %}
-                <option value="{{ team }}">{{ team }}</option>
-            {% endfor %}
-        </select><br>
+    <div class="container">
+        <h1>⚽ Bundesliga Ergebnis Tipp</h1>
+        <form method="POST">
+            <label for="home_team">Heimteam wählen:</label>
+            <select name="home_team" id="home_team" required>
+                {% for team in teams %}
+                    <option value="{{ team }}" {% if team == selected_home %}selected{% endif %}>{{ team }}</option>
+                {% endfor %}
+            </select>
 
-        <label for="away_team">Auswärtsteam:</label><br>
-        <select name="away_team" id="away_team" required>
-            {% for team in teams %}
-                <option value="{{ team }}">{{ team }}</option>
-            {% endfor %}
-        </select><br>
+            <label for="away_team">Auswärtsteam wählen:</label>
+            <select name="away_team" id="away_team" required>
+                {% for team in teams %}
+                    <option value="{{ team }}" {% if team == selected_away %}selected{% endif %}>{{ team }}</option>
+                {% endfor %}
+            </select>
 
-        <button type="submit">Vorhersage anzeigen</button>
-    </form>
+            <button type="submit">Vorhersagen</button>
+        </form>
 
-    {% if prediction %}
-        <div class="result">
-            <p><strong>Tipp:</strong> {{ prediction }}</p>
-        </div>
-    {% endif %}
+        {% if prediction %}
+        <div class="prediction">{{ prediction }}</div>
+        {% endif %}
+
+        <footer>
+            © Bundesliga Prediction – {{ year | default(2025) }}
+        </footer>
+    </div>
 </body>
 </html>

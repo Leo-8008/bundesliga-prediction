@@ -25,6 +25,9 @@ teams = sorted(set(name.replace("home_team_", "").replace("away_team_", "")
 @app.route("/", methods=["GET", "POST"])
 def index():
     prediction = None
+    home_team = None
+    away_team = None
+
     if request.method == "POST":
         home_team = request.form.get("home_team")
         away_team = request.form.get("away_team")
@@ -40,10 +43,11 @@ def index():
         home_goals = model_home.predict(x)[0]
         away_goals = model_away.predict(x)[0]
 
-        # Runden auf ganze Tore
-        prediction = f"Tipp: {int(round(home_goals))}:{int(round(away_goals))}"
+        # Formatierte Ausgabe
+        prediction = f"{home_team} vs. {away_team} – Tipp: {int(round(home_goals))}:{int(round(away_goals))}"
 
-    return render_template("index.html", teams=teams, prediction=prediction)
+    return render_template("index.html", teams=teams, prediction=prediction,
+                           selected_home=home_team, selected_away=away_team)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
