@@ -1,0 +1,38 @@
+name: Automatisierter Trainings-Workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  train-upload:
+    runs-on: ubuntu-latest
+    env:
+      AZURE_STORAGE_KEY: ${{ secrets.AZURE_STORAGE_KEY }}
+
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v3
+
+      - name: Python installieren
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Abhängigkeiten installieren
+        run: |
+          pip install -r requirements.txt
+          pip install azure-storage-blob scrapy
+
+      - name: Bundesliga-Daten scrapen
+        working-directory: ./scraping
+        run: scrapy crawl bundesliga_results
+
+      - name: Features berechnen (Form)
+        run: python add_form_features.py
+
+      - name: Modell trainieren
+        run: python train_model.py
+
+      - name: Modell in Azure Blob hochladen
+        run: |
+          python model_to_blob.py --container models --version v${{ github.run_number }}

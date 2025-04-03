@@ -4,10 +4,10 @@ import pandas as pd
 # Beispiel-Teams + zusätzliche Feature-Werte
 home_team = "FC Bayern München"
 away_team = "Bor. Dortmund"
-home_team_rank = 1           # Tabellenplatz Heimteam
-away_team_rank = 2           # Tabellenplatz Auswärtsteam
-home_form = 2.6              # z. B. Ø Punkte aus letzten 5 Heimspielen
-away_form = 1.4              # z. B. Ø Punkte aus letzten 5 Auswärtsspielen
+home_team_rank = 1        
+away_team_rank = 2           
+home_form = 2.6             
+away_form = 1.4              
 
 # Feature-Namen laden
 feature_names = pd.read_csv("feature_names.csv")["feature"].tolist()
