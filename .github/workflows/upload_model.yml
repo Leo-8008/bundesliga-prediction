@@ -23,4 +23,4 @@ jobs:
       run: pip install -r requirements.txt azure-storage-blob
 
     - name: Upload model to Azure Blob
-      run: python model_to_blob.py
+      run: python model_to_blob.py --container models --version latest

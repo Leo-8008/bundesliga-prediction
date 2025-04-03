@@ -2,32 +2,38 @@ import argparse
 from azure.storage.blob import BlobServiceClient
 from pathlib import Path
 import os
-from azure.storage.blob import BlobServiceClient
 
-# Argumente definieren (z. B. für Versionierung)
+# Argumente parsen
 parser = argparse.ArgumentParser()
-parser.add_argument("--container", type=str, required=True, help="Name des Blob Containers (z. B. 'models')")
-parser.add_argument("--version", type=str, required=True, help="Modellversion (z. B. 'v1')")
+parser.add_argument("--container", required=True, help="models")
+parser.add_argument("--version", required=True, help="latest")
 args = parser.parse_args()
 
-# Verbindung mit Azure Blob Storage
-AZURE_CONNECTION_STRING = os.environ["AZURE_STORAGE_KEY"]
-blob_service_client = BlobServiceClient.from_connection_string(AZURE_CONNECTION_STRING)
-container_client = blob_service_client.get_container_client(args.container)
+# Azure Storage Key aus Umgebungsvariable
+AZURE_STORAGE_KEY = os.getenv("AZURE_STORAGE_KEY")
+STORAGE_ACCOUNT_NAME = "bundesligaml4305190470"  # Optional anpassen
 
-# Hochzuladende Dateien
-model_files = [
-    ("model_home.pkl", f"home_{args.version}.pkl"),
-    ("model_away.pkl", f"away_{args.version}.pkl"),
-    ("feature_names.csv", f"features_{args.version}.csv")
-]
+# Verbindung aufbauen
+blob_service = BlobServiceClient(
+    f"https://{STORAGE_ACCOUNT_NAME}.blob.core.windows.net",
+    credential=AZURE_STORAGE_KEY
+)
 
-# Upload ausführen
-for local_file, blob_name in model_files:
-    file_path = Path(local_file)
-    if file_path.exists():
-        with open(file_path, "rb") as data:
-            container_client.upload_blob(name=blob_name, data=data, overwrite=True)
-        print(f"Hochgeladen: {local_file} → {args.container}/{blob_name}")
-    else:
-        print(f"Datei nicht gefunden: {local_file}")
+# Container erstellen (wenn nicht vorhanden)
+container_client = blob_service.get_container_client(args.container)
+try:
+    container_client.create_container()
+    print(f"Container '{args.container}' erstellt")
+except Exception:
+    print(f"Container '{args.container}' existiert bereits")
+
+# Upload der Modelle
+for model_file in ["model_home.pkl", "model_away.pkl", "feature_names.csv"]:
+    blob_name = f"{args.version}/{model_file}"
+    blob_client = container_client.get_blob_client(blob_name)
+
+    with open(model_file, "rb") as data:
+        blob_client.upload_blob(data, overwrite=True)
+        print(f"📤 Hochgeladen: {blob_name}")
+
+print("Upload abgeschlossen.")
