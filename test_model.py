@@ -1,7 +1,6 @@
 import pickle
 import pandas as pd
 
-# Beispiel-Teams + zusätzliche Feature-Werte
 home_team = "FC Bayern München"
 away_team = "Bor. Dortmund"
 home_team_rank = 1        
@@ -9,20 +8,16 @@ away_team_rank = 2
 home_form = 2.6             
 away_form = 1.4              
 
-# Feature-Namen laden
 feature_names = pd.read_csv("feature_names.csv")["feature"].tolist()
 
-# Eingabefeatures erzeugen
 input_data = pd.DataFrame(columns=feature_names)
-input_data.loc[0] = 0  # alle Features initialisieren
+input_data.loc[0] = 0  
 
-# One-Hot-Encoding der Teams
 if f"home_team_{home_team}" in input_data.columns:
     input_data.loc[0, f"home_team_{home_team}"] = 1
 if f"away_team_{away_team}" in input_data.columns:
     input_data.loc[0, f"away_team_{away_team}"] = 1
 
-# Neue numerische Features setzen
 if "home_team_rank" in input_data.columns:
     input_data.loc[0, "home_team_rank"] = home_team_rank
 if "away_team_rank" in input_data.columns:
@@ -32,14 +27,12 @@ if "home_form" in input_data.columns:
 if "away_form" in input_data.columns:
     input_data.loc[0, "away_form"] = away_form
 
-# Modelle laden
 with open("model_home.pkl", "rb") as f:
     model_home = pickle.load(f)
 
 with open("model_away.pkl", "rb") as f:
     model_away = pickle.load(f)
 
-# Vorhersage
 pred_home_goals = round(model_home.predict(input_data)[0])
 pred_away_goals = round(model_away.predict(input_data)[0])
 

@@ -3,26 +3,21 @@ import datetime
 import os
 from azure.storage.blob import BlobServiceClient
 
-# 1. Scrapy Spider ausführen
 print("Starte Scraping...")
 subprocess.run(["scrapy", "crawl", "bundesliga_spider"], cwd="scraping")
 
-# 2. Form-Features hinzufügen
 print("Berechne Form-Features...")
 subprocess.run(["python", "add_form_features.py"])
 
-# 3. Modelltraining
 print("Trainiere Modelle...")
 subprocess.run(["python", "train_model.py"])
 
-# 4. MongoDB Import
 print("Importiere Daten in MongoDB...")
 subprocess.run(["python", "import_to_cosmos.py"])
 
-# 5. Upload zu Azure Blob Storage
 print("Lade Modelle in Azure Blob Storage hoch...")
 
-AZURE_STORAGE_KEY = os.getenv("AZURE_STORAGE_KEY")  # muss in .env oder GitHub Actions gesetzt sein
+AZURE_STORAGE_KEY = os.getenv("AZURE_STORAGE_KEY") 
 STORAGE_ACCOUNT_NAME = "bundesligaml4305190470"
 container_name = "models"
 version = datetime.datetime.now().strftime("v%Y%m%d_%H%M")
