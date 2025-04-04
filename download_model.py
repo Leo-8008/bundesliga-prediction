@@ -2,12 +2,10 @@ from azure.storage.blob import BlobServiceClient
 import os
 import re
 
-# Konfiguration
 STORAGE_ACCOUNT_NAME = "bundesligaml4305190470"
 CONTAINER_NAME = "models"
 AZURE_STORAGE_KEY = os.getenv("AZURE_STORAGE_KEY") 
 
-# Verbindung herstellen
 blob_service = BlobServiceClient(
     f"https://{STORAGE_ACCOUNT_NAME}.blob.core.windows.net",
     credential=AZURE_STORAGE_KEY
@@ -15,10 +13,8 @@ blob_service = BlobServiceClient(
 
 container = blob_service.get_container_client(CONTAINER_NAME)
 
-# Alle Blob-Pfade auflisten
 blobs = list(container.list_blobs())
 
-# Alle Versionen extrahieren (vYYYYMMDDHHMMSS)
 versions = sorted(set(
     re.match(r"v\d+", blob.name).group()
     for blob in blobs if re.match(r"v\d+/", blob.name)

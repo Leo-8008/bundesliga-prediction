@@ -50,10 +50,8 @@ for idx, row in df.iterrows():
     df.at[idx, "home_form"] = calc_form(prev_home_games, "home_team", "home_goals", "away_goals")
     df.at[idx, "away_form"] = calc_form(prev_away_games, "away_team", "away_goals", "home_goals")
 
-# Datum wieder zu String machen für JSON-Speicherung
 df["date"] = df["date"].dt.strftime("%d.%m.%Y")
 
-# Zurückspeichern
 with open(json_path, "w", encoding="utf-8") as f:
     json.dump(df.to_dict(orient="records"), f, ensure_ascii=False, indent=4)
 

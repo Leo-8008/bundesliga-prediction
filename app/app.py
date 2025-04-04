@@ -3,60 +3,39 @@ import pandas as pd
 import pickle
 import numpy as np
 import os
-import re
 from azure.storage.blob import BlobServiceClient
 
 app = Flask(__name__)
 
-# Azure Blob Konfiguration
+
 AZURE_STORAGE_KEY = os.getenv("AZURE_STORAGE_KEY")
 STORAGE_ACCOUNT_NAME = "bundesligaml4305190470"
 CONTAINER_NAME = "models"
-DOWNLOAD_DIR = os.path.dirname(os.path.dirname(__file__))
 
-def download_latest_model():
-    if not AZURE_STORAGE_KEY:
-        print("Azure Storage Key nicht gesetzt!")
-        return
+def get_latest_version():
+    try:
+        blob_service = BlobServiceClient(
+            f"https://{STORAGE_ACCOUNT_NAME}.blob.core.windows.net",
+            credential=AZURE_STORAGE_KEY
+        )
+        container_client = blob_service.get_container_client(CONTAINER_NAME)
+        versions = set(blob.name.split("/")[0] for blob in container_client.list_blobs())
+        return sorted(versions)[-1] if versions else "Unbekannt"
+    except Exception as e:
+        print("Fehler beim Ermitteln der Modellversion:", e)
+        return "Unbekannt"
 
-    blob_service = BlobServiceClient(
-        f"https://{STORAGE_ACCOUNT_NAME}.blob.core.windows.net",
-        credential=AZURE_STORAGE_KEY
-    )
-    container = blob_service.get_container_client(CONTAINER_NAME)
+model_version = get_latest_version()
 
-    version_folders = set()
-    for blob in container.list_blobs():
-        match = re.match(r"(v\d{8}_\d{4})/", blob.name)
-        if match:
-            version_folders.add(match.group(1))
+base_path = os.path.dirname(os.path.dirname(__file__))
+model_path = os.path.join(base_path, "models", model_version)
 
-    if not version_folders:
-        print("Keine Modellversionen gefunden.")
-        return
-
-    latest_version = sorted(version_folders)[-1]
-    print(f"Lade neuestes Modell: {latest_version}")
-
-    for filename in ["model_home.pkl", "model_away.pkl", "feature_names.csv"]:
-        blob_path = f"{latest_version}/{filename}"
-        blob = container.get_blob_client(blob_path)
-        with open(os.path.join(DOWNLOAD_DIR, filename), "wb") as f:
-            f.write(blob.download_blob().readall())
-            print(f"Heruntergeladen: {filename}")
-
-# ⬇Neueste Modelle laden
-download_latest_model()
-
-# Modelle und Features einladen
-with open(os.path.join(DOWNLOAD_DIR, "model_home.pkl"), "rb") as f:
+with open(os.path.join(model_path, "model_home.pkl"), "rb") as f:
     model_home = pickle.load(f)
-with open(os.path.join(DOWNLOAD_DIR, "model_away.pkl"), "rb") as f:
+with open(os.path.join(model_path, "model_away.pkl"), "rb") as f:
     model_away = pickle.load(f)
+feature_names = pd.read_csv(os.path.join(model_path, "feature_names.csv"))["feature"].tolist()
 
-feature_names = pd.read_csv(os.path.join(DOWNLOAD_DIR, "feature_names.csv"))["feature"].tolist()
-
-# Teamauswahl vorbereiten (nur Teamnamen)
 teams = sorted(set(
     name.replace("home_team_", "").replace("away_team_", "")
     for name in feature_names
@@ -81,11 +60,11 @@ def index():
 
         home_goals = model_home.predict(x)[0]
         away_goals = model_away.predict(x)[0]
-
         prediction = f"{home_team} vs. {away_team} – Tipp: {int(round(home_goals))}:{int(round(away_goals))}"
 
     return render_template("index.html", teams=teams, prediction=prediction,
-                           selected_home=home_team, selected_away=away_team)
+                           selected_home=home_team, selected_away=away_team,
+                           model_version=model_version)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=80)
+    app.run(host="0.0.0.0", port=5000)

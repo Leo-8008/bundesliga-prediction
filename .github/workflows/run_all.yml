@@ -1,7 +1,7 @@
 name: Run Complete ML Pipeline
 
 on:
-  workflow_dispatch:  # Manuelles Starten im GitHub UI
+  workflow_dispatch: 
 
 jobs:
   full-pipeline:

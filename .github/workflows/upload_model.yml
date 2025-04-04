@@ -1,7 +1,7 @@
 name: Upload Model to Azure Blob
 
 on:
-  workflow_dispatch:  # Manuell auslösbar über GitHub GUI
+  workflow_dispatch: 
   push:
     paths:
       - model_home.pkl
