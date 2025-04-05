@@ -1,5 +1,5 @@
 # bundesliga-prediction
-Projekt 1 zur Vorhersage von Spielen in der Bundesliga-Meisters.
+Projekt 1 zur Vorhersage von Spielen in der Bundesliga.
 In diesem Projekt wird ein vollständiger Machine Learning Workflow zur Vorhersage von Bundesliga-Spielergebnissen umgesetzt – inklusive Scraping, Modelltraining, Deployment in Azure und ModelOps-Automatisierung. Die Vorhersage basiert auf historischen Spieldaten, Tabellenplatz, Formkurve und weiteren Features.
 
 Datenherkunft
