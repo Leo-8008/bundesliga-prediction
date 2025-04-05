@@ -38,6 +38,7 @@ Training
 	• One-Hot-Encoding + numerische Features
 	• Speicherung der Modelle + feature_names.csv
 	• Upload in Azure Blob Storage mit Versionierung (v1, v2, …)
+
  Automatisierung: Teil von run_all.py Workflow
 
 ModelOps Automation
@@ -52,5 +53,6 @@ Deployment
 	• Styling mit Bootstrap
 	• Containerisierung mit Docker (Dockerfile, .dockerignore)
 	• Deployment via Azure Web App for Containers
-App erreichbar unter: https://bundesliga-webapp.azurewebsites.net![image](https://github.com/user-attachments/assets/f6debbfc-f98e-4ead-8dc9-22bbcee77a24)
+
+App erreichbar unter: https://bundesliga-webapp.azurewebsites.net
 
